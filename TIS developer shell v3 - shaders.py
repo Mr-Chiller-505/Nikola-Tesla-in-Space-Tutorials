@@ -1,6 +1,6 @@
 '''
 Tesla in Space Developer - Cam, Player, asteroids, gameview
-By Casey Rodgers
+By Casey R
 Last modified 7/16/2022
 Testing glsl shader
 '''
